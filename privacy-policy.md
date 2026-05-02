@@ -1,6 +1,6 @@
 # Privacy Policy for GhostCast
 
-**Effective Date:** May 22, 2024
+**Effective Date:** May 02 2026
 
 GhostCast ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information about you when you use our mobile application, GhostCast (the "App").
 
@@ -45,4 +45,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 7. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-[Insert Your Contact Email Here]
+[morasonailabs@gmail.com]
